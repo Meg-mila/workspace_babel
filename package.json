@@ -1,0 +1,27 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "\"Browser based game\"",
+  "main": "index.js",
+  "dependencies": {
+    "core-js": "^3.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meg-mila/workspace_babel.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Margarita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Meg-mila/workspace_babel/issues"
+  },
+  "homepage": "https://github.com/Meg-mila/workspace_babel#readme"
+}
