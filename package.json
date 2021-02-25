@@ -6,7 +6,11 @@
   "dependencies": {
     "core-js": "^3.9.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@babel/cli": "^7.13.0",
+    "@babel/core": "^7.13.1",
+    "@babel/preset-env": "^7.13.5"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "babel src -d dist"
